@@ -52,7 +52,7 @@ ncremap -a aave -P sgs \
 
 ### Some points to keep in mind:
 * the variable type should be *double* of dimensions
-* run *ncdump -h* on the source file, if the masked data does not show as "--", mask the data properly. 
+* run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly. 
 * The units of area variable are stredians. MF: 6371*6371 km^2
 * If the data is fine resolution, use *tempestremap*.
 
@@ -65,7 +65,7 @@ The comparison analysis is:
 * Regrid Tempest (180x360)           : 6.14 PgC (when mask was NaN)
 * Regrid ncremap -conserve (180x360) : 6.74 PgC (when mask was NaN)
 * Regrid ncremap -bilinear (180x360) : 7.02 PgC (when mask was NaN)
-* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was "--")
+* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was "- -")
 
 ## For a random time of 1851-12-15 for CESM2
 #### Total GPP
