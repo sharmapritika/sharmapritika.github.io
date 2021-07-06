@@ -57,17 +57,18 @@ ncremap -a aave -P sgs \
 * If the data is fine resolution, use *tempestremap*.
 
 If you have the access to Cori Nersc, visit the dir : **/global/cfs/cdirs/m2467/bharat/Regridding_Techniques**. It has observation and model data and scripts designed to regrid them to coarser resolution. The file ```Regridding_Example.ipynb``` is designed to test the output of your regrided file and compare with source file.
+
 The comparison analysis is:
-#### For a random time of 1981-12-31 for Flux ANN
+### For a random time of 1981-12-31 for Flux ANN
 #### Total GPP
 * Original (360x720)                 : 7.24 PgC
 * Regrid Tempest (180x360)           : 6.14 PgC (when mask was NaN)
 * Regrid ncremap -conserve (180x360) : 6.74 PgC (when mask was NaN)
 * Regrid ncremap -bilinear (180x360) : 7.02 PgC (when mask was NaN)
-* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was --)
+* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was "--")
 
 ## For a random time of 1851-12-15 for CESM2
-### Total GPP
+#### Total GPP
 * Original (192x288)                : 7.51 PgC
 * Regrid Tempest (64x128)           : 7.47 PgC
 * Regrid ncremap -conserve (64x128) : 7.47 PgC
