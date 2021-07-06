@@ -1,7 +1,6 @@
 ## How to regrid the netcdf files?
 ### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap 
 
-
 1.[TempestRemap](https://github.com/ClimateGlobalChange/tempestremap) (by Paul Ulrich) is a conservative, consistent and monotone remapping package for arbitrary grid geometry with support for finite volumes and finite elements.
 
 ```
@@ -51,8 +50,10 @@ ncremap -a aave -P sgs \
 ```
 
 ### Some points to keep in mind:
+* The variable should be assumed such that in any location within a grid, the values are same. For instance, flux density, precipitation, and temperature follow the rule. 
+* Use density (g m-2 s-1) variables rather than mass flux (g s-1) as conservative remapping means the area-weighting summary or average. For GPP in gC/mon, the rule is broken.
 * the variable type should be *double* of dimensions.
-* run *ncdump -h* on the source file, if the masked data does not show as ``- -", mask the data properly. 
+* run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly. 
 * The units of area variable are stredians. To get the area in km2 use a multiplying facor of 6371*6371 km^2.
 * If the data is fine resolution, use *tempestremap*.
 
@@ -65,7 +66,7 @@ The comparison of regridded data vs original data:
 * Regrid Tempest (180x360)           : 6.14 PgC (when mask was NaN)
 * Regrid ncremap -conserve (180x360) : 6.74 PgC (when mask was NaN)
 * Regrid ncremap -bilinear (180x360) : 7.02 PgC (when mask was NaN)
-* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was ``- -")
+* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was "- -")
 
 ### For a random time of 1851-12-15 for CESM2
 #### Total GPP
