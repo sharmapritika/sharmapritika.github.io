@@ -1,4 +1,5 @@
-<a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a>
+<a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a> \
+<a href="https://sharma-bharat.github.io/Posts.html" style="float: right;">*Posts*</a>
 
 ## Adition and substraction
 when variable names are different

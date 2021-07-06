@@ -1,4 +1,5 @@
-<a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a>
+<a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a> \
+<a href="https://sharma-bharat.github.io/Posts.html" style="float: right;">*Posts*</a>
 
 ## How to regrid the netcdf files?
 ### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap 
