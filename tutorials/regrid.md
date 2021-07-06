@@ -57,7 +57,7 @@ ncremap -a aave -P sgs \
 * The units of area variable are stredians. To get the area in km2 use a multiplying facor of 6371*6371 km^2.
 * If the data is of high resolution, use *tempestremap*.
 
-If you have the access to Cori Nersc, visit the dir : **/global/cfs/cdirs/m2467/bharat/Regridding_Techniques**. It has observation and model data and scripts designed to regrid them to coarser resolution. The file ```Regridding_Example.ipynb``` is designed to test the output of your regrided file and compare with source file.
+If you have the access to Cori Nersc, visit the dir : **/global/cfs/cdirs/m2467/bharat/Regridding_Techniques**. It has observation and model data and scripts designed to regrid them to coarser resolution. The file `Regridding_Example.ipynb` is designed to test the output of your regrided file and compare with source file.
 
 ### The comparison of regridded data vs original data:
 * For a random time of 1981-12-31 for Flux ANN, Total GPP:
