@@ -65,7 +65,7 @@ The comparison of regridded data vs original data:
 * Regrid Tempest (180x360)           : 6.14 PgC (when mask was NaN)
 * Regrid ncremap -conserve (180x360) : 6.74 PgC (when mask was NaN)
 * Regrid ncremap -bilinear (180x360) : 7.02 PgC (when mask was NaN)
-* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was "- -")
+* Regrid (FV) ncremap -conserve (180x360) : 7.24 PgC (when mask was ``- -")
 
 ### For a random time of 1851-12-15 for CESM2
 #### Total GPP
