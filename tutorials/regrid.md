@@ -55,7 +55,7 @@ ncremap -a aave -P sgs \
 * the variable type should be *double* of dimensions.
 * run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly. 
 * The units of area variable are stredians. To get the area in km2 use a multiplying facor of 6371*6371 km^2.
-* If the data is fine resolution, use *tempestremap*.
+* If the data is of high resolution, use *tempestremap*.
 
 If you have the access to Cori Nersc, visit the dir : **/global/cfs/cdirs/m2467/bharat/Regridding_Techniques**. It has observation and model data and scripts designed to regrid them to coarser resolution. The file ```Regridding_Example.ipynb``` is designed to test the output of your regrided file and compare with source file.
 
