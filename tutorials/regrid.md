@@ -1,6 +1,7 @@
 ## How to regrid the netcdf files?
-### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap (using ESMF)
+### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap 
 
+TempestRemap (by Paul Ulrich) is a conservative, consistent and monotone remapping package for arbitrary grid geometry with support for finite volumes and finite elements.
 ```
 
 ./bin/GenerateRLLMesh --lon 720 --lat 360 --file grid_360x720.g                                                                                                                         
