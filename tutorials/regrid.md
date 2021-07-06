@@ -1,7 +1,7 @@
 ## How to regrid the netcdf files?
 ### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap 
 
-1. [TempestRemap](https://github.com/ClimateGlobalChange/tempestremap) (by Paul Ulrich) is a conservative, consistent and monotone remapping package for arbitrary grid geometry with support for finite volumes and finite elements.
+1.[TempestRemap](https://github.com/ClimateGlobalChange/tempestremap) (by Paul Ulrich) is a conservative, consistent and monotone remapping package for arbitrary grid geometry with support for finite volumes and finite elements.
 
 ```
 ./bin/GenerateRLLMesh --lon 720 --lat 360 --file grid_360x720.g                                                                                                                         
@@ -19,7 +19,7 @@
 
 
 
-2. [ncremap](https://acme-climate.atlassian.net/wiki/spaces/DOC/pages/754286611/Regridding+E3SM+Data+with+ncremap#Intermediate-Regridding-II%3A-TempestRemap) has many options of regridding that includes conservative, biliniear, nearest and also sub grade scale (sgs). **sgs** is especially useful incase the climate variable is dependent on landfrac.
+2.[ncremap](https://acme-climate.atlassian.net/wiki/spaces/DOC/pages/754286611/Regridding+E3SM+Data+with+ncremap#Intermediate-Regridding-II%3A-TempestRemap) has many options of regridding that includes conservative, biliniear, nearest and also sub grade scale (sgs). **sgs** is especially useful incase the climate variable is dependent on landfrac.
 
 Options: 
 default: bilinear
