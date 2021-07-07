@@ -18,6 +18,6 @@ Know your login:
 >`whoami`
 
 Details in the directory:
-> `ls : displays content of current directory`
-> `ls -la : list in alphabetic order`
-> `ls -ltr : list from oldest to most recent`
+`ls : displays content of current directory`
+`ls -la : list in alphabetic order`
+`ls -ltr : list from oldest to most recent`
