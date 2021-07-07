@@ -23,3 +23,8 @@ ls : displays content of current directory
 ls -la : list in alphabetic order
 ls -ltr : list from oldest to most recent
 ```
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| ls      | displays content of current directory       |
+| ls -la   | list in alphabetic order        |
