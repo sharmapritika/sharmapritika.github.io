@@ -5,9 +5,11 @@
 Read more: https://nicojourdain.github.io/students_dir/students_linux/
 
 To get more details of commands:
-> `man mv`
-> `man cp`
-> `man ls`
+```
+man mv
+man cp
+man ls
+```
 
 Current directory:
 >`pwd`
