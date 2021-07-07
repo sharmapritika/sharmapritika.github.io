@@ -4,10 +4,11 @@
 ## How to mask fill values in existing netcdf file?
 #### In case *ncdump -h* command does not recognises your fill or missing values you can do the following.
 
-* Read the file (with a variable `gpp`) using `xarray` .
+Mask the NaNs in fillvalue of the file (with a variable `gpp`) using `xarray`.
+
 ``` 
-import xarray as xx
-ds = xr.ods
+import xarray as xr
+ds = xr.open_dataset("abc.nc")
 ds_new = ds.fillna(1.e+36)
 \# ds_new = ds.fillna(1.e+36).drop_vars("areacella") # incase you also want to remove a variable.
 ds_new.gpp.attrs["_FillValue"] = 1.e+36
