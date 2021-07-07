@@ -56,7 +56,7 @@ ncremap -a aave -P sgs \
 * The variable should be assumed such that in any location within a grid, the values are same. For instance, flux density, precipitation, and temperature follow the rule. 
 * Use density (g m-2 s-1) variables rather than mass flux (g s-1) as conservative remapping means the area-weighting summary or average. For GPP in gC/mon, the rule is broken.
 * the variable type should be *double* of dimensions.
-* run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly (see: [link]("https://sharma-bharat.github.io/tutorials/mask_fillvalue.html")). 
+* run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly, see: [link](https://sharma-bharat.github.io/tutorials/mask_fillvalue.html). 
 * The units of area variable are stredians. To get the area in km2 use a multiplying facor of 6371*6371 km^2.
 * If the data is of high resolution, use *tempestremap*.
 
