@@ -4,6 +4,30 @@
 ## How to regrid the netcdf files?
 ### Here we will discuss two most common methods that are used for regridding: Tempestremap and ncremap 
 
+---
+
+## Some points to keep in mind before you use the following techniques:
+* The variable should be assumed such that in any location within a grid, the 
+values are same. For instance, flux density, precipitation, and temperature 
+follow the rule. 
+* Use density (g m-2 s-1) variables rather than mass flux (g s-1) as 
+conservative remapping means the area-weighting summary or average. For GPP in 
+gC/mon, the rule is broken.
+* the variable type should be *double* of dimensions.
+* run *ncdump -h* on the source file, if the masked data does not show as "- 
+-", mask the data properly, see: [link](https://sharma-bharat.github.io/posts/
+mask_fillvalue.html). 
+* The masking and _FillValue should be link *1.e36*. e.g. the missing value of 
+ERA5 dataset is *-32767s* and tempest does not recognize this fill and missing 
+value.
+* The units of area variable are stredians. To get the area in km2 use a 
+multiplying facor of 6371*6371 km^2.
+* If the data is of high resolution, use *tempestremap*.
+
+---
+
+## Steps for redrigging for both techniques:
+
 1.[TempestRemap](https://github.com/ClimateGlobalChange/tempestremap) (by Paul Ulrich) is a conservative, consistent and monotone remapping package for arbitrary grid geometry with support for finite volumes and finite elements.
 
 ```
@@ -60,13 +84,15 @@ ncremap -a aave -P sgs \
             CESM2_ssp585_r1i1p1f1_gpp_gCm-2_nco_sgs_aave_64x128.nc
 ```
 
-### Some points to keep in mind:
+### Some points to keep in mind before you use the following techniques:
 * The variable should be assumed such that in any location within a grid, the values are same. For instance, flux density, precipitation, and temperature follow the rule. 
 * Use density (g m-2 s-1) variables rather than mass flux (g s-1) as conservative remapping means the area-weighting summary or average. For GPP in gC/mon, the rule is broken.
 * the variable type should be *double* of dimensions.
 * run *ncdump -h* on the source file, if the masked data does not show as "- -", mask the data properly, see: [link](https://sharma-bharat.github.io/posts/mask_fillvalue.html). 
+* The masking and _FillValue should be link *1.e36*. e.g. the missing value of ERA5 dataset is *-32767s* and tempest does not recognize this fill and missing value.
 * The units of area variable are stredians. To get the area in km2 use a multiplying facor of 6371*6371 km^2.
 * If the data is of high resolution, use *tempestremap*.
+
 
 If you have the access to Cori Nersc, visit the dir : **/global/cfs/cdirs/m2467/bharat/Regridding_Techniques**. It has observation and model data and scripts designed to regrid them to coarser resolution. The file `Regridding_Example.ipynb` is designed to test the output of your regrided file and compare with source file.
 
