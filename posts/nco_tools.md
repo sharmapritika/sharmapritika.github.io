@@ -22,19 +22,34 @@ ncdiff can_gpp-ra.nc can_rh.nc can_nep.nc
 **Note: variable names must be same**
 
 ### for substraction
->```file3=file1-file2
-ncdiff 1.nc 2.nc 3.nc```
+
+op_typ key values: ‘sbt’, ‘-’, ‘dff’, ‘diff’, ‘sub’, ‘subtract’, ‘subtraction’
+```
+file3=file1-file2
+ncdiff 1.nc 2.nc 3.nc
+ncbo --op_typ=- 1.nc 2.nc 3.nc
+```
 
 ### for addition
->```file3=file1+file2
+
+op_typ key values: ‘add’, ‘+’, ‘addition’
+```
+file3=file1+file2
 ncadd 1.nc 2.nc 3.nc
-ncbo --op_typ=add 1.nc 2.nc 3.nc```
+ncbo --op_typ=+ 1.nc 2.nc 3.nc
+```
 
 ### for multiplication
-```file3=file1*file2
-ncmult 1.nc 2.nc 3.nc```
+
+op_typ key values: ‘mlt’, ‘*’, ‘mult’, ‘multiply’, ‘multiplication’
+```
+file3=file1*file2
+ncmult 1.nc 2.nc 3.nc
+ncbo --op_typ=* 1.nc 2.nc 3.nc
+```
 
 ### for division
+
 op_typ key values: ‘dvd’, ‘/’, ‘divide’, ‘division’
 ```
 file3=file1/file2
