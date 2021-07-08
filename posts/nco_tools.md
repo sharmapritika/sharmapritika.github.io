@@ -120,13 +120,14 @@ the concatenation result of there two files are stored in the rightmost file
     * `ncdump -h decomp_trend_ccsm_gpp.nc |less`
 ---
 ## Masking the values of the original file using the land fraction nc file
-> `ncks -A sftlf.nc gpp.nc` \
+
+`ncks -A sftlf.nc gpp.nc` \
 it will copy the variable from sftlf.nc to gpp.nc; so gpp.nc will have variable(s) from sftlf.nc \
 \where the land frac is 0 or less set the corresponding gpp variable to missing value `ncap2 -s "where(sftlf<=0) gpp=gpp.get_miss();" test.nc testfixfill.nc`
 
 ---
 ## Extracting Variable(s)
-> 
+
 * to extract only one variable from a nc file
     * `ncks -C -v gpp mod_av_gpp_regrid.nc mod_av_gpp_regrid_prep.nc`
 * to extract two or more variable from a nc file
@@ -136,7 +137,7 @@ it will copy the variable from sftlf.nc to gpp.nc; so gpp.nc will have variable(
 
 ---
 ## Splitting nc files
->
+
 ```
 ncks -d time,0,729 hgt.2006.nc hgt.2006-01.nc
 ncks -d time,730,1459 hgt.2006.nc hgt.2006-02.nc 
@@ -147,4 +148,9 @@ ncks -d time,1560,1919 bnu_gpp_regrid_sel.nc bnu_gpp_regrid_sel_time.nc
 ncks -d lat,0,179 bnu_gpp_regrid_sel_time.nc bnu_gpp_regrid_sel_time_l1.nc
 ncks -d time,12,1151 b.e10.BRCP85BDRD.pftcon.f09_g16.001.clm2.h0.SMOIST.200501-210012.nc rcp.nc
 ```
+---
+## Change the type of the variable
+
+`ncap2 -s 'var2=double(var1)' in.nc out.nc`
+
 ---
