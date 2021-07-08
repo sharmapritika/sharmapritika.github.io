@@ -25,9 +25,17 @@
 2.[ncremap](https://acme-climate.atlassian.net/wiki/spaces/DOC/pages/754286611/Regridding+E3SM+Data+with+ncremap#Intermediate-Regridding-II%3A-TempestRemap) has many options of regridding that includes conservative, biliniear, nearest and also sub grade scale (sgs). **sgs** is especially useful incase the climate variable is dependent on landfrac.
 
 Options: 
-default: bilinear
--a aave: conserve
--P sgs: includes sub grade scale
+
+`ncremap -a aave -s src_grd.nc -g dst_grd.nc -m map.nc in.nc out.nc  `
+> * default: bilinear
+> * -a aave : for conserve 
+> * -P sgs: for sub grid scale if you have landfraction
+> * src_grd.nc : is source grid scrip file
+> * dst_grd.nc : is destination grid scrip file
+> * -m map.nc : the weight nc file, (Min Said, if you don't alreaddy have it, it will be created)
+> * in.nc : is the input file 
+> * out.nc : output file name
+  
 
 ```
 export NCO_PATH_OVERRIDE='No'                                                               
