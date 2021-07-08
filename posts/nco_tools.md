@@ -22,17 +22,17 @@ ncdiff can_gpp-ra.nc can_rh.nc can_nep.nc
 **Note: variable names must be same**
 
 ### for substraction
->`file3=file1-file2`\
-`ncdiff 1.nc 2.nc 3.nc`
+>```file3=file1-file2
+ncdiff 1.nc 2.nc 3.nc```
 
 ### for addition
->`file3=file1+file2`\
-`ncadd 1.nc 2.nc 3.nc`\
-`ncbo --op_typ=add 1.nc 2.nc 3.nc`
+>```file3=file1+file2
+ncadd 1.nc 2.nc 3.nc
+ncbo --op_typ=add 1.nc 2.nc 3.nc```
 
 ### for multiplication
-`file3=file1*file2`\
-`ncmult 1.nc 2.nc 3.nc`
+```file3=file1*file2
+ncmult 1.nc 2.nc 3.nc```
 
 ### for division
 op_typ key values: ‘dvd’, ‘/’, ‘divide’, ‘division’
@@ -49,8 +49,8 @@ In case you want to compute the flux density of gpp, i.e. GPP (in gC mon-1) **di
 
 --------------
 ## Averaging an ensemble of realizations:
->`nces 85_01.nc 85_02.nc 85_03.nc 85_04.nc 85_05.nc 85.nc`
-`nces 85_0[1-5].nc 85.nc`
+>```nces 85_01.nc 85_02.nc 85_03.nc 85_04.nc 85_05.nc 85.nc
+nces 85_0[1-5].nc 85.nc```
 ### Ensemble/Variable averaging:
 >`ncea bnu_gpp_regrid.nc can_gpp_regrid.nc ccsm_gpp_regrid.nc mod_av_gpp_regrid.nc`
 -----
