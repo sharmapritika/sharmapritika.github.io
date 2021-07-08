@@ -2,5 +2,6 @@
 
 * <a href="about.html"> About </a> 
 * <a href="Posts.html"> Posts</a>
+* * <a href="conda.html"> Posts</a>
 
 
