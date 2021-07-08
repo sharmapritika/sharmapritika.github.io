@@ -31,18 +31,20 @@ ncdiff can_gpp-ra.nc can_rh.nc can_nep.nc
 `ncbo --op_typ=add 1.nc 2.nc 3.nc`
 
 ### for multiplication
->`file3=file1*file2`\
+`file3=file1*file2`\
 `ncmult 1.nc 2.nc 3.nc`
 
 ### for division
->`file3=file1/file2`\
-op_typ key values: ‘dvd’, ‘/’, ‘divide’, ‘division’\
-`ncdivide 1.nc 2.nc 3.nc`\
-`ncbo --op_typ=/ 1.nc 2.nc 3.nc`
+op_typ key values: ‘dvd’, ‘/’, ‘divide’, ‘division’
+```
+file3=file1/file2
+ncdivide 1.nc 2.nc 3.nc
+ncbo --op_typ=/ 1.nc 2.nc 3.nc
+```
 
 In case you want to compute the flux density of gpp, i.e. GPP (in gC mon-1) **divide** area (m2) = gpp (gC m-2 month-1). if GPP is 3-d file and area is 2-d, `ncbo` commands work well provided the variable name of the area file is renames to `gpp`.
 
-> ` ncbo --op_typ=/ CESM2_ssp585_r1i1p1f1_gpp_gCm-2_64x128.nc AREA64.nc  gpp_flux_density.nc`
+``` ncbo --op_typ=/ CESM2_ssp585_r1i1p1f1_gpp_gCm-2_64x128.nc AREA64.nc  gpp_flux_density.nc```
 
 
 --------------
