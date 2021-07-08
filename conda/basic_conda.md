@@ -1,5 +1,5 @@
 <a href="https://sharma-bharat.github.io/" style="float: right;
-">*Homepage*</a> \
+">*Homepage*</a> 
 
 To install anaconda use this [link](https://docs.anaconda.com/anaconda/install/index.html)
 
