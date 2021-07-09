@@ -80,7 +80,7 @@ nces 85_0[1-5].nc 85.nc```
 
 ----
 ## Deleting an attribute
->`ncatted -a stardard_name,col_fire_closs,d,,"col_fire_closs anomalies" cesm1bgc_pftcon_col_fire_closs_anomalies.nc`
+>`ncatted -a stardard_name,col_fire_closs,d,, cesm1bgc_pftcon_col_fire_closs_anomalies.nc`
 
 ----
 ## Filling NaN in place of some _FillingValue or vice versa
