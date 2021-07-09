@@ -7,6 +7,8 @@ Cheat-sheet of commands: [link](conda-cheatsheet.pdf)
 
 My latest conda environment yaml file: [link](carbon.yml)
 
+conda create -n carbon python=3.6 xarray mpi4py dask scipy bokeh
+
 `conda env create -f carbon.yml `
 
 ## Basic Commands
