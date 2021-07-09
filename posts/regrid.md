@@ -24,6 +24,7 @@ value.
 multiplying facor of 6371*6371 km^2.
 * If the data is of high resolution, use *tempestremap*.
 * For other commonly used nco commands, see [link](https://sharma-bharat.github.io/posts/nco_tools.html)
+
 ---
 
 ## Steps for redrigging for both techniques:
