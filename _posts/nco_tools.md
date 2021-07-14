@@ -1,3 +1,8 @@
+---
+layout: post 
+title: NCO tools for netcdf operations
+---
+
 <a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a> \
 <a href="https://sharma-bharat.github.io/Posts.html" style="float: right;">*Posts*</a>
 

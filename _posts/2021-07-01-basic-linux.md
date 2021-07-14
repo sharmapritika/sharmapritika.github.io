@@ -1,3 +1,9 @@
+---
+layout: post 
+title: Basic Linux Commands
+---
+
+
 <a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a> \
 <a href="https://sharma-bharat.github.io/Posts.html" style="float: right;">*Posts*</a>
 

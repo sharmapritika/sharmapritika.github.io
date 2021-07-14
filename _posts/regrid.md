@@ -1,3 +1,8 @@
+---
+layout: post 
+title: How to regrid the netcdf files?
+---
+
 <a href="https://sharma-bharat.github.io/" style="float: right;">*Homepage*</a> \
 <a href="https://sharma-bharat.github.io/Posts.html" style="float: right;">*Posts*</a>
 
