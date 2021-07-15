@@ -41,3 +41,7 @@ ls -ltr     : list from oldest to most recent
 | ----------- | ----------- |
 | ls      | displays content of current directory       |
 | ls -la   | list in alphabetic order        |
+
+
+Count the lines of .csv, .txt files on terminal
+`cat FILENAME.csv | wc -l` 
