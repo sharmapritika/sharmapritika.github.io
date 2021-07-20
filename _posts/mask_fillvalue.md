@@ -21,3 +21,11 @@ ds_new.gpp.attrs["missing_value"] = 1.e+36
 ds_new.to_netcdf(f"abc_new.nc", unlimited_dims={'time':True})
 
 ```
+
+
+Change the lat/lon coordinates using xarrays
+
+```
+lon_values = np.asarray(ds.lon.values-180, dtype=float)
+ds = ds.assign_coords({"lon" : (lon_values )})
+```
