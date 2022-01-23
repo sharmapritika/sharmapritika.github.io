@@ -7,7 +7,7 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Dissertation
 
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf)
+**Sharma, B.**, “Detection and Attribution of Carbon Cycle Extremes using upscalled GPP products and Earth System Models to Compound Climate Drivers”, expected 2022. Northeastern University. [Dissertation](./papers/sharma_dissertation_2022.pdf)
 
 
 ## Preprints
@@ -65,6 +65,10 @@ Li, Y., Chang, Y., **Vandal, T.**,  Das, D., Ding, A., Ganguly,  A., & Dy, J. (2
 **Vandal, T.**,  Bhatia, U., and Ganguly, A. (2017), “Statistical Downscaling in Climate with State of the Art Scalable Machine Learning.” Large-Scale Machine Learning in the Earth Sciences. Taylor & Francis. [Chapter](https://www.taylorfrancis.com/books/e/9781315371740/chapters/10.4324/9781315371740-4)
 
 ## Conference Poster Presentations
+
+**Sharma. B**, Kumar, J., Hoffman, F. M., and Ganguly, A. R. (2021) Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models. Improving Earth System Predictability (B041), American Geophysical Union Fall Meeting. New Orleans, LA. [AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
+
+
 
 **Vandal. T**, Duffy, K, McCarty, W., Sewnath, A., Das, P., Michaelis, A., and Nemani, R. (2022) Deep Learning System for Efficient Processing of Geostationary Satellite Imagery. 21th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Houston, TX.
 
