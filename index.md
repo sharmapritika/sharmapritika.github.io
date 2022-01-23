@@ -2,8 +2,8 @@
 layout: homepage
 title: Bharat Sharma
 role: PhD Candidate
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
-contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
+affiliation: Northeastern University<br>Oak Ridge National Lab <br> Oak Ridge, TN 37830
+contact: sharma.bha@northeastern.edu <br> bharat.sharma.neu@gmail.com <br> 
 description: Machine Learning, Data Science, and Earth Sciences
 
 ---
