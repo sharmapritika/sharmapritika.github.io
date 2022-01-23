@@ -62,53 +62,11 @@ Li, Y., Chang, Y., **Vandal, T.**,  Das, D., Ding, A., Ganguly,  A., & Dy, J. (2
 
 ## Book Chapters
 
-Warner, M., **Sharma. B**, Bhatia, U., and Ganguly, A. (2019), “Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective.” In: Ghanbarnejad F., Saha Roy R., Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer Proceedings in Complexity. Springer, Cham. [Chapter](https://doi.org/10.1007/978-3-030-14683-2_3)
+Warner, M., **Sharma. B**, Bhatia, U., and Ganguly, A. (2019), “Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective.” In: Ghanbarnejad F., Saha Roy R., Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer Proceedings in Complexity. Springer, Cham. [Chapter](!https://doi.org/10.1007/978-3-030-14683-2_3)
 
 
 ## Conference Poster Presentations
 
 **Sharma. B**, Kumar, J., Hoffman, F. M., and Ganguly, A. R. (2021), “Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.” Improving Earth System Predictability (B041), American Geophysical Union Fall Meeting. New Orleans, LA. [AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
-
-
-
-**Vandal. T**, Duffy, K, McCarty, W., Sewnath, A., Das, P., Michaelis, A., and Nemani, R. (2022) Deep Learning System for Efficient Processing of Geostationary Satellite Imagery. 21th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Houston, TX.
-
-Duffy, K., **Vandal, T.**, and Nemani, R. (2022). “LEO sensor to GEO sensor algorithm transfer models for land surface temperature”. 21th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Houston, TX.
-
-**Vandal, T.** (2021). “GeoNEX-ML: A Machine Learning System for Earth Observations.” (Invited) Indian Symposium on Machine Learning, Virtual.
-
-**Vandal, T.** (2021) “Physics Guided Optical Flow for Tracking Atmospheric Motion” (Invited). American Geophysical Union Fall Meeting. New Orleans, LA.
-
-Duffy, K., **Vandal, T.**, and Nemani, R. (2021) “Communicating metrics of land surface temperature variability using multi-sensor machine learning”. American Geophysical Union Fall Meeting. New Orleans, LA.
-
-Yadav, N., **Vandal, T.**, Duffy, K., and Nemani, R. (2021). Physics-Guided Deep Learning for Quantitative Precipitation Nowcasting. American Geophysical Union Fall Meeting. New Orleans, LA.
-
-Das, P., **Vandal, T.**, Duffy, K., and Ganguly, R. (2021). “Uncertainty Aware Machine Learning based Quantitative Precipitation Estimation from Geostationary Satellites.” American Geophysical Union Fall Meeting. New Orleans, LA.
-
-**Vandal, T.** (2021) “Virtual Sensing with Unsupervised Image-to-Image Translation”. 20th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Virtual.
-
-**Vandal, T.** (2021) “Towards Physics Guided Optical Flow for Tracking Atmospheric Motion”. Asia Oceania Geosciences Society, Virtual. 
-
-**Vandal, T. (2021)** “GeoNEX-ML: A Machine Learning System for Geostationary Satellite Imagery” at 3rd NOAA Workshop on Leveraging AI in Environmental Sciences, Virtual.
-
-**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”.  19th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting. Boston, MA.
-
-Park, T., Wang, W., Hashimoto, H., **Vandal, T.**, Dungan, J. L., Wang, Y., ... & Nemani, R. R. (2020, December). Generation of land surface reflectance with combined Geo-KOMPSAT-2A AMI and Himawari 8 AHI observations. In AGU Fall Meeting Abstracts (Vol. 2020, pp. A008-0016).
-
-**Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499).
-
-Duffy, K., Vandal, T., Li, S., Nemani, R. R., & Ganguly, A. R. (2019, December). Deep Learning Emulation of Atmospheric Correction for Geostationary Sensors. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/543801).
-
-Li, S., Wang, W., Hashimoto, H., **Vandal, T.**, Yao, J., & Nemani, R. R. (2019, December). Surface Reflectance Product from Geostationary Satellite. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/488058).
-
-**Vandal, T.**, Ganguly, S., Kodra, E., Dy, J., Michaelis, A., Nemani, R., & Ganguly, A. (2018). Image Super-Resolution and Uncertainty Quantification for Earth Science Data on NASA Earth Exchange AI Platform (Invited). In AGU Fall Meeting Abstracts.
-
-Ganguly, S., Kalia, S., Duffy, K., Collier, E., Shreekant, G., Li, S., Mukhopadhyay, S., Prabhat, **Vandal, T.**, Albert, A., Hashimoto, H., Wang, W., Lee, T., Choudhury, D., Michaelis, A., Saatchi, S., Tucker, C., & Nemani, R (2018). NEX-AI: A Cloud and HPC Agnostic Framework for Scaling Deep Learning and Machine Learning Applications for Earth Science. In AGU Fall Meeting Abstracts.
-
-Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A.,(2018). GOENEX: A Deep Learning Approach to Prediction of Surface Spectral Reflectance. In AGU Fall Meeting Abstracts.
-
-Wilson, A., **Vandal, T.**, Rieffel, E., & Nemani, R. (2018).Compressing Earth Science Datasets with Quantum-Assisted Machine Learning Algorithms. In AGU Fall Meeting Abstracts.
-
-Mage, M., Ganguly, S., **Vandal, T.**, Nemani, R. R., Li, S., Kalia, S., & Ganguly, A. R. (2017). Estimation of MODIS-like Surface-Spectral Reflectance from Geostationary Satellites using Deep Neural Networks. In AGU Fall Meeting Abstracts.- Duffy, K., Bhatia, U., Vandal, T., & Ganguly, A. R. (2017). The sensitivity of climate driven hydrologic models to statistical downscaling methods. In AGU Fall Meeting Abstracts.
 
 
