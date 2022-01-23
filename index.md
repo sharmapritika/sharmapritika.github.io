@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Thomas J. Vandal, Ph.D.
-role: Research Scientist
+title: Bharat Sharma
+role: PhD Candidate
 affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
 contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
 description: Machine Learning, Data Science, and Earth Sciences
