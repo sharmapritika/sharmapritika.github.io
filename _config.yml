@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: Welcome to Bharat's webpages.
-description: Using the climate data from multiple models and observations, investigating potential extreme events in carbon fluxes (plant productivity), due to human induced fossil fuel emissions and land use and land cover changes, and their attribution to climate drivers.
+plugins: ['jekyll/scholar']
+kramdown:
+  parse_block_html: true
