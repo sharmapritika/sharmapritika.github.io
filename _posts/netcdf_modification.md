@@ -1,4 +1,4 @@
-To convert the nc coords from (0, 300) to (-180,180)
+To convert the nc coords from (0, 360) to (-180,180)
 
 Source : [link](https://stackoverflow.com/questions/53345442/about-changing-longitude-array-from-0-360-to-180-to-180-with-python-xarray/53561230#53561230)
 ```
@@ -19,6 +19,13 @@ ds = (
     .drop(lon_name))
 
 ds = ds.rename({'_longitude_adjusted': lon_name})
+
+ds_new = ds.fillna(1.e+36)
+ds_new.longitude.attrs["axis"] = "X"
+ds_new.longitude.attrs["units"] = "degrees_east"
+ds_new.longitude.attrs["standard_name"] = "Longitude"
+ds_new.latitude.attrs["axis"] = "Y"
+ds_new.time.attrs["axis"] = "T"
 ```
 ---
 
