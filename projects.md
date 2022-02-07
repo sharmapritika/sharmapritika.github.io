@@ -13,7 +13,7 @@ The development of urban structure varies across the world. Recently increased a
 In this thesis, an attempt to analyze the response of cities with different land use structure when stuck with warning based disaster has been made. Therefore, same transport infrastructure and supply has been modeled so as to generate results close to the reality. Different parameters - for instance, evacuation time, queue lengths, vehicle travel time, average delay time, and average speed - were analyzed for both cities.
 The quantitative analysis using VISSIM 7 software confirmed the hypothesis that transit oriented developments if faced with a shock, perform better than car de- pendent city structure. <br>
 **Report:** [MS Report (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
-**Simulation Sample:** [https://drive.google.com/file/d/1RmKv6HtWiJtIxZzoLH1_aY79XTkZlVrm/view?usp=sharing](https://drive.google.com/file/d/1RmKv6HtWiJtIxZzoLH1_aY79XTkZlVrm/view?usp=sharing)
+**Simulation:** [Congestion on Evacuation Paths](https://drive.google.com/file/d/1RmKv6HtWiJtIxZzoLH1_aY79XTkZlVrm/view?usp=sharing)
 
 <hr>
 
