@@ -4,7 +4,13 @@ title: Projects
 description: 
 ---
 
-Will be updated soon!
+## Comparitive Analysis of Commercially Available Software Tools for Slope Stability and Simulation of Dynamic Loading
+
+**Authors:** Bharat Sharma, Abhishek Sharma, Rounak Maheswari, Tushar Khandelwal, and R. K. Sharma <br>
+
+Analysis of slope stability is carried out to identify the most critical failure plane so as to minimize the occurrence of slope failures and landslides. It is always needed to give serious consideration before any construction or development is executed to ensure that the designed slopes remain stable. Slope failure can be determined through appropriate measurement of slope stability. In this study C-programming and GEO4 and Plaxis 2D software have been used to determine the factor of safety of the selected slope. Total station surveying has been used to prepare contour maps of the study area using LISCAD. The parameters such as soil cohesion (c), angle of internal friction (φ), and unit weight of soil (γ) have been determined using laboratory experiments. The site is modeled as multilayer so as to simulate real conditions as close as possible. The simulation involving dynamic loading as the site is subjected to mild earthquakes is also incorporated. The study is conducted for a site where the mode of failure is analyzed using Bishop’s method and appropriate preventive measure for slope stability is recommended and detailed design is provided.
+
+**Report:** ![UG Major Project 1 (2011)](papers/UG_Major_1.pdf) <br>
 
 <!---
 ## Spectral Synthesis for Geostationary Satellite-to-Satellite Translation
