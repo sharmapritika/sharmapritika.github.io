@@ -6,6 +6,8 @@ description:
 ## Resilience in Urban Areas 
 ### An Approach to Study Interaction between Evacuation and Land Use & Transportation Structures
 
+![alt text](assets/images/Vissimlouisiana.jpg "VISSIM Model NOLA")
+
 **Authors:** Bharat Sharma and Benjamin Buettner <br>
 **Abstract:** The usage of the word resilience in the last decade has tremendously increased in several fields, including the field of urban planning. Generally understood as “capacity to absorb and bounce back”; resilience aims to prepare a person or a city for uncertainties, shocks, and stresses.
 The development of urban structure varies across the world. Recently increased awareness regarding environmental and air quality has attested the advantages of Transit Oriented Development over Transit Adjacent or Automobile-Oriented devel- opment.
