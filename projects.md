@@ -10,6 +10,7 @@ description:
 **Authors:** Bharat Sharma, Abhishek Sharma, Tushar Khandelwal, Neelmani Singh, Ashish Parmar, and R. K. Sharma <br>
 **Abstract:** The most concerning problem today with the Thermal power plant is the disposal of Fly ash. The use of Fly ash as landfill causes great environmental pollution like, groundwater contamination, since coal contains trace levels of heavy metals. Similarly, waste ceramic too causes great environmental problem. So, there is a need to utilize these materials by exploiting their inherent properties to solve the environment and disposable problem. This report brings out the results of an experimental programme carried out to evaluate the effectiveness of using Fly ash with randomly distributed discrete waste ceramic for soil stabilization by studying the compaction and strength characteristics for use as subgrade material. The influence of different mix proportions of Clay, Sand, Fly ash and Ceramic on compaction, drainage and CBR values has been studied. The results show that addition of Fly ash increases the OMC and decreases the MDD, but increased the CBR. The designed composite may be used effectively for construction of subgrade, embankment and foundations of low cost roads.<br>
 **Report:** [UG Major Project 2 (2012)](./papers/UG_Major_2.pdf) <br>
+**Presentation:** [UG Major Project 2 PPT(2012)](./papers/UG_Major_2_ppt.pdf) <br>
 
 <hr>
 
