@@ -14,4 +14,4 @@ title: Posts/Expense manager
 
 All the data that will be generated will be stored only at your system.
 
-**Repository** : `https://github.com/sharma-bharat/expense_manager/`
+**Repository** :  [`https://github.com/sharma-bharat/expense_manager/`](https://sharma-bharat.github.io/Posts_Online/expense_manager.html)
