@@ -7,3 +7,8 @@ If you are facing issues masking NaNs of your netCDF files, Check out the follow
 [How to mask fill values in existing netcdf file?](https://sharma-bharat.github.io/Posts_Online/mask_fillvalue.html)
 
 <hr>
+
+Basic Linux: <br>
+[Basic Linux Commands](https://sharma-bharat.github.io/Posts_Online/mask_fillvalue.html)
+
+<hr>
