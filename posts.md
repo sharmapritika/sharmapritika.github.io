@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Projects 
+title: Posts 
 description: 
 ---
 
-- [Mask Fillvalues](https://sharma-bharat.github.io/Posts_Online/mask_fillvalue.html)
+[How to mask fill values in existing netcdf file?](https://sharma-bharat.github.io/Posts_Online/mask_fillvalue.html)
+
+<hr>
