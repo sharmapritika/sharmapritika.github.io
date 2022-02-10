@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: default 
 title: How to mask fill values in existing netcdf file?
 ---
 
