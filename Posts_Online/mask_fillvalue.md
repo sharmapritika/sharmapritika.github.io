@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: How to mask fill values in existing netcdf file?
+title: Posts/Mask FillValues
 ---
 
 ## How to mask fill values in existing netcdf file?
