@@ -34,7 +34,7 @@ Comparing two latex files: <br>
 <hr>
 
 Keeping track of your incomes and expenses: <br>
-[Using latexdiff](https://sharma-bharat.github.io/Posts_Online/expense_manager.html)
+[Expense Manager](https://sharma-bharat.github.io/Posts_Online/expense_manager.html)
 
 <hr>
 
