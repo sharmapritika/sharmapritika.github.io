@@ -44,21 +44,21 @@ Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluatio
 
 ## Teaching Roles
 
-"CIVE 5363 Climate Science, Engineering Adaptation, and Policy". Spring 2021 <br>
-*Offers an evidence-based glimpse of what has been called a clear and present danger to mankind. Analyzes case studies from the magic of the butterfly effect in chaos theory to the deep challenges in physics, biogeochemistry, and data sciences. Covers topics from experimental design to satellite-based remote sensing, all the way to the design and operations of next-generation hydraulic infrastructures, transportation systems, smart grids, and communication networks, including the impacts on coastal or inland cities, the resilience to weather hazards, and the sustainability of water-energy-food resources. Includes policy issues and risk-informed trade-offs in renewable energy, environmental regulations, and emissions control. Graduate students are required to complete a mandatory class project. * <br>
-Responsibility: Teaching (Shared), Tutorials, Office Hours, Grading, and Project Mentoring <br>
+**CIVE 5363 Climate Science, Engineering Adaptation, and Policy**. Spring 2021 <br>
+*Offers an evidence-based glimpse of what has been called a clear and present danger to mankind. Analyzes case studies from the magic of the butterfly effect in chaos theory to the deep challenges in physics, biogeochemistry, and data sciences. Covers topics from experimental design to satellite-based remote sensing, all the way to the design and operations of next-generation hydraulic infrastructures, transportation systems, smart grids, and communication networks, including the impacts on coastal or inland cities, the resilience to weather hazards, and the sustainability of water-energy-food resources. Includes policy issues and risk-informed trade-offs in renewable energy, environmental regulations, and emissions control. Graduate students are required to complete a mandatory class project.* <br>
+**Responsibilities**: Teaching (Shared), Tutorials, Office Hours, Grading, and Project Mentoring <br>
 
-"CIVE 2260 - Materials for the Built Environment". Spring 2018 <br>
+**CIVE 2260 - Materials for the Built Environment**. Spring 2018 <br>
 *Introduces the physical, mechanical, and chemical properties of materials of importance to civil engineers. Offers an overview of the ways in which these properties affect the material selection process, material behavior, and the design process.* <br>
-Responsibility: Tutorials, Office Hours, and Grading <br>
+**Responsibilities**: Tutorials, Office Hours, and Grading <br>
 
-"CIVE 2261 - Lab for Materials for the Built Environment". Spring 2018 <br>
+**CIVE 2261 - Lab for Materials for the Built Environment**. Spring 2018 <br>
 *Involves the use of standard lab test methods and equipment to determine properties of materials common to civil engineering practice. Also introduces students to land surveying, site layout, and the measurement of distance, elevation, and direction.* <br>
-Responsibility: Lab, Field Visits (Survey), Office Hours, and Grading <br>
+**Responsibilities**: Lab, Field Visits (Survey), Office Hours, and Grading <br>
 
-"CIVE 3464 - Probability and Engineering Economy for Civil Engineering". Spring 2017 <br>
+**CIVE 3464 - Probability and Engineering Economy for Civil Engineering**. Spring 2017 <br>
 *Introduces engineering probability and statistics, as well as engineering economic analysis for project or design evaluation. Case studies are used to illustrate the integration of these areas in the design/system analysis process. Topics in engineering probability and statistics include descriptive statistics, expected value of random variables, and hypotheses testing. Statistical process control and sampling methods are introduced. Reliability methods for the analysis and improvement of system/design performance are discussed. Also covers fundamental concepts of time value of money and economic evaluation of alternatives, including the effects of depreciation and taxes.* <br>
-Responsibility: Tutorials, Office Hours, and Grading <br>
+**Responsibilities**: Tutorials, Office Hours, and Grading <br>
 
 ## Highlights
 
