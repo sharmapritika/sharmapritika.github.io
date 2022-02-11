@@ -45,3 +45,6 @@ Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluatio
 ## Mentions
 
 [**SDS Lab students and alums enjoy spate of success stories**](https://coe.northeastern.edu/news/sds-lab-students-and-alums-enjoy-spate-of-success-stories/)
+
+[**Ganguly leads Artificial Intelligence section for US Climate Assessment**](https://coe.northeastern.edu/news/ganguly-leads-artificial-intelligence-section-for-us-climate-assessment/)
+
