@@ -8,7 +8,7 @@ featured-img: assets/images/earth-wide.jpg
 
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M. (_Manuscript in Review_), "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300". Journal of Geophysical Research - Biogeosciences.
 
-**Sharma, Bharat**, Kumar, J., mGanguly, A. R., and Hoffman, F. M., "Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century". _Manuscript in Preparation_ 
+**Sharma, Bharat**, Kumar, J., Ganguly, A. R., and Hoffman, F. M., "Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century". _Manuscript in Preparation_ 
 
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M., "Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models." _Manuscript in Preparation_ 
 
