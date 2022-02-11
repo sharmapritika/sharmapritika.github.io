@@ -54,7 +54,7 @@ Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluatio
 
 **CIVE 2261 - Lab for Materials for the Built Environment**. Spring 2018 <br>
 *Involves the use of standard lab test methods and equipment to determine properties of materials common to civil engineering practice. Also introduces students to land surveying, site layout, and the measurement of distance, elevation, and direction.* <br>
-**Responsibilities**: Lab, Field Visits (Survey), Office Hours, and Grading <br>
+**Responsibilities**: Lab, Field Visits (Surveying), Office Hours, and Grading <br>
 
 **CIVE 3464 - Probability and Engineering Economy for Civil Engineering**. Spring 2017 <br>
 *Introduces engineering probability and statistics, as well as engineering economic analysis for project or design evaluation. Case studies are used to illustrate the integration of these areas in the design/system analysis process. Topics in engineering probability and statistics include descriptive statistics, expected value of random variables, and hypotheses testing. Statistical process control and sampling methods are introduced. Reliability methods for the analysis and improvement of system/design performance are discussed. Also covers fundamental concepts of time value of money and economic evaluation of alternatives, including the effects of depreciation and taxes.* <br>
