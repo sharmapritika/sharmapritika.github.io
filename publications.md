@@ -42,7 +42,7 @@ Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluatio
 
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, and Auroop R. Ganguly. December 15, 2017. “Carbon Cycle Extremes in the 22nd and 23rd Century and Attribution to Climate Drivers.” Abstract B53J-02 presented at the 2017 American Geophysical Union (AGU) Fall Meeting (December 11–15, 2017), New Orleans, Louisiana, USA.
 
-## Mentions
+## Highlights
 
 [**SDS Lab students and alums enjoy spate of success stories**](https://coe.northeastern.edu/news/sds-lab-students-and-alums-enjoy-spate-of-success-stories/)
 
