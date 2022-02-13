@@ -38,4 +38,7 @@ Keeping track of your incomes and expenses: <br>
 
 <hr>
 
+Organising Journal Club 2018, ORNL! Let's talk Science! <br>
+[More Info](https://www.climatemodeling.org/~bharat/journal_club.html)
+
 
