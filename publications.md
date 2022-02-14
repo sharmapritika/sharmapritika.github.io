@@ -15,7 +15,7 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Dissertation
 
-**Sharma, Bharat**, “Detection and Attribution of Carbon Cycle Extremes using upscalled GPP products and Earth System Models to Compound Climate Drivers”, expected 2022. Northeastern University. 
+**Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Climate Drivers using upscalled GPP products and Earth System Models.”, expected 2022. Northeastern University. 
 
 
 ## Book Chapters
