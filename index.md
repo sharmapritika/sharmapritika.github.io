@@ -3,7 +3,7 @@ layout: homepage
 title: Pritika Sharma
 role: PhD Candidate
 affiliation: Jamia Hardard University<br> New Delhi, India
-contact: pritikasharma14@gmail.com <br> 
+contact: pritikasharma15@gmail.com <br> 
 description: Food Technology, Food Science, and Clinical Studies
 
 ---
