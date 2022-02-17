@@ -8,9 +8,13 @@ description: Food Technology, Food Science, and Clinical Studies
 
 ---
 
-My research is at the intersection of Data Science and Earth science, and high-performance computing. I am interested in analyzing spatio-temporal extremes in carbon fluxes using Observations and Earth System Models to quantify the impact of climate change on potential carbon uptake and carbon sink.
+My research is at the intersection of probiotics and nutraceuticals. 
 
 ## Bio
 
-Bharat Sharma is a Ph.D. candidate in the Department of Civil and Environmental Engineering at [Northeastern University](https://www.northeastern.edu/), Boston. He is currently working as an exchange graduate student at the Climate Change Science Institute at [Oak Ridge National Laboratory](https://www.ornl.gov/) with a concentration in understanding the impact of changing climate on the terrestrial carbon cycle. His work focuses on the detection of extreme events in carbon fluxes, under various forcing scenarios using observations and earth system models, and attribution to individual and compound climate drivers. He has a Master’s in Transportation System from the Technical University of Munich (Germany) and a Bachelor’s in Civil Engineering from the National Institute of Technology, Hamirpur (India). He has previously worked at [Obermeyer](https://www.obermeyer-group.com/) and [New Delhi International Airport](https://www.newdelhiairport.in/). Bharat spends his spare time cooking, reading, and talking to friends and family.
+Pritika Sharma is a Ph.D. candidate in the Department of Food Technilogy at [Jamia Hamdard University](http://jamiahamdard.edu/), New Delhi, India. She is currently working on the project "Probiotic bael (Aegle Marmelos) based nutraceutical for remission of Ulcerative Colitis" funded by [Indian Council of Medical Research](https://www.icmr.gov.in/). She has a Master’s in Food Technology from the [Guru Jambheshwar University of Science and Technology, Hisar, India](http://www.gjust.ac.in/) and a Bachelor’s in Food Technology from the [Shoolini University of Biotechnology & Management Sciences, Solan ,HP (India)](https://shooliniuniversity.com/). She has previously worked with Defence Food Research Laboratory (DFRL), Mysuru, India and Mother Dairy Fruits & Vegetables Ltd, New Delhi, India. Pritika spends her spare time reading, singing, and painting.
+
+
+## Awards
+Senior Research Fellowship for Doctoral Research work on "**Probiotic bael (Aegle Marmelos) based nutraceutical for remission of Ulcerative Colitis**" by Indian Council of Medical Research, New Delhi
 
