@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Bharat Sharma
+title: Pritika Sharma
 role: PhD Candidate
-affiliation: Northeastern University<br>Oak Ridge National Lab <br> Oak Ridge, TN 37830
-contact: sharma.bha@northeastern.edu <br> bharat.sharma.neu@gmail.com <br> 
-description: Machine Learning, Data Science, and Earth Sciences
+affiliation: Jamia Hardard University<br> New Delhi, India
+contact: pritikasharma14@gmail.com <br> 
+description: Food Technology, Food Science, and Clinical Studies
 
 ---
 
